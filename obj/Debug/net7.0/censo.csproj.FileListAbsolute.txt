@@ -1,0 +1,15 @@
+Z:\Programacion4\censo\bin\Debug\net7.0\censo.exe
+Z:\Programacion4\censo\bin\Debug\net7.0\censo.deps.json
+Z:\Programacion4\censo\bin\Debug\net7.0\censo.runtimeconfig.json
+Z:\Programacion4\censo\bin\Debug\net7.0\censo.dll
+Z:\Programacion4\censo\bin\Debug\net7.0\censo.pdb
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.csproj.AssemblyReference.cache
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.AssemblyInfoInputs.cache
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.AssemblyInfo.cs
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.csproj.CoreCompileInputs.cache
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.dll
+Z:\Programacion4\censo\obj\Debug\net7.0\refint\censo.dll
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.pdb
+Z:\Programacion4\censo\obj\Debug\net7.0\censo.genruntimeconfig.cache
+Z:\Programacion4\censo\obj\Debug\net7.0\ref\censo.dll
