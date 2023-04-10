@@ -99,14 +99,14 @@ static int BuscarPersona(List<Persona> lp) {
     int numeroDeDocumentoDeLaPersonaQueQuiereBuscar; bool v;
     do{v= int.TryParse(Console.ReadLine(), out numeroDeDocumentoDeLaPersonaQueQuiereBuscar);}while(!v);
     
-    int i = 0;
+    int i = -1;
     v=false;
     while (!v && i!=lp.Count) {
         
+        i++;
         v=lp[i].DNI==numeroDeDocumentoDeLaPersonaQueQuiereBuscar;
         
         
-        i++;
     }
     return i;
 
